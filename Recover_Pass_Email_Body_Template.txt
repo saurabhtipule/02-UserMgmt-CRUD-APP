@@ -1,0 +1,12 @@
+Hii {fname} {lname},
+<br/>
+<br/>
+
+Welcome to Complete Java Classes ,Please find your password below.<br/>
+<br/>
+
+PassWord : {Temp_Pass} <br/>
+<br/>
+
+Thanks & Regards , <br/>
+Complete Java Classes.<br/>
